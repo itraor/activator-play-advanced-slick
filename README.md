@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Advanced play-slick Typesafe Activator template
 ===============================================
 
@@ -129,3 +130,7 @@ Main authors are:
 The project is a fork of super slick play activator template. 
 
 Feel free to use it, test it and to contribute!
+||||||| merged common ancestors
+=======
+# activator-play-advanced-slick
+>>>>>>> 1aad9aff86503dbd3e125f6c3d75cfb136edcf0d
