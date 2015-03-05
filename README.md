@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Advanced play-slick Typesafe Activator template
 ===============================================
 
@@ -119,6 +118,12 @@ class UsersServiceTest extends Specification {
 }
 ```
 
+Not a real fork
+---------------
+
+This specific repo is a copy (not a fork) of the original project. I merely pushed here as a temporary backup.
+The proper fork cis described below.
+
 Contributors
 ------------
 The activator is based on the work by [VirtusLab](http://www.virtuslab.com) team. 
@@ -130,7 +135,3 @@ Main authors are:
 The project is a fork of super slick play activator template. 
 
 Feel free to use it, test it and to contribute!
-||||||| merged common ancestors
-=======
-# activator-play-advanced-slick
->>>>>>> 1aad9aff86503dbd3e125f6c3d75cfb136edcf0d
