@@ -1,4 +1,4 @@
-name := "play-slick-advanced"
+name := "playSlickAdvanced"
 
 version := "2.0.0"
 
@@ -13,4 +13,5 @@ libraryDependencies ++= Seq(
   // "group" % "artifact" % "version"
 )
 
-lazy val `play-slick-advanced` = (project in file(".")).enablePlugins(PlayScala, SbtWeb)
+lazy val playSlickAdvanced = (project in file("."))
+  .enablePlugins(PlayScala, SbtWeb)
