@@ -122,7 +122,7 @@ Not a real fork
 ---------------
 
 This specific repo is a copy (not a fork) of the original project. I merely pushed here as a temporary backup.
-The proper fork cis described below.
+The proper fork is described below.
 
 Contributors
 ------------
